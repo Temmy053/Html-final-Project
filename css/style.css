@@ -1,0 +1,68 @@
+.box-1{font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva;
+}
+.box-1 img{
+    width: 100%;
+}
+header {background-color: white;
+color: rgb(74, 74, 161);
+/* padding: 4; */
+}
+
+table {
+    border-spacing: 20px;
+    width: 80px;
+    margin: 20px auto;
+}
+
+th, td {
+    padding: 10px; /* Adds space inside cells */
+    text-align: left; /* Align text to the left */
+}
+    
+nav{background-color: rgb(110, 110, 192);
+    /* padding-left: 7rem; */
+text-align: center;
+}
+
+nav a{
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+}
+
+nav a:hover{
+    color: red;
+}
+
+nav a:active{
+    color: rgb(51, 105, 51);
+}
+
+.button{
+    background-color: black;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+}
+
+button:hover{
+    color: red;
+}
+
+main{
+    padding: 20px;
+}
+
+section{
+    margin-bottom: 20px;
+}
+
+footer{
+    background-color: rgb(83, 83, 175);
+    color: white;
+    text-align: center;
+    padding: 10;
+    position: absolute;
+    width: 100%;
+}
